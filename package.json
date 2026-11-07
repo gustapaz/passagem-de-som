@@ -1,0 +1,1 @@
+{"name":"passagem-de-som","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","start":"node scripts/local.mjs","test":"node --test tests/api.test.mjs","test:browser":"playwright test"},"dependencies":{"preact":"^11.2.0"},"devDependencies":{"@playwright/test":"^1.65.0","esbuild":"^0.28.2"}}
